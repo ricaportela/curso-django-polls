@@ -2,7 +2,7 @@ language: python
 dist: xenial
 sudo: True
 python:
-  - 3.8
+  - 3.7
   env:
     global:
       - PIPENV_VENV_IN_PROJECT=1
